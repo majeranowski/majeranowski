@@ -1,11 +1,14 @@
 # Majeranowski's github
 
-Currently enrolled in the Full-Stack-Web-DEvelopment bootcamp at HyperionDev.
+**Junior DevOps engineer** at Sparta Global
 
 ## Tech stack
 
-At the moment mostly JS and React.js
-In the future, python and solidity
+* ReactJS
+* NodeJS
+* Python
+* Azure/AWS
+* Linux
 
 ### Links:
 
